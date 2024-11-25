@@ -1,5 +1,9 @@
 # Contribute Project
 
+![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)
+![Python](https://img.shields.io/badge/python-3.8%2B-brightgreen)
+![Open Source](https://img.shields.io/badge/open--source-yes-brightgreen)
+
 This project provides a Python script to manage contributions in open-source projects.
 
 ## Files
